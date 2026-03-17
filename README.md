@@ -1,3 +1,3 @@
 # Estación Meteorológica PRoA 
 ## Integrante: GONTERO Kyara 
-* Elementos
+*  Sensor de temperatura, humedad y presión.
