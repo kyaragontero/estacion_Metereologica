@@ -1,2 +1,3 @@
-# estacion_Metereologica
-Proyecto integrador de las materias de la especialidad de 5to año 2026
+# Estación Meteorológica PRoA 
+## Integrante: GONTERO Kyara 
+* Elementos
