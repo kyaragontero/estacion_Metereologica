@@ -6,8 +6,8 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 
 ### Datos: 
 | Apellido y Nombre | E-mail | GitHub |
-| :--- Kyara Gontero| :--- kagontero@escuelasproa.edu.ar| :--- https://github.com/kyaragontero/estacion_Metereologica.git |
-| Apellido, Nombre | ejemplo@mail.com | [ver perfil](https://github.com/tu-usuario) |
+| :---: | :---: | :---: |
+|Kyara Gontero|kagontero@escuelasproa.edu.ar|[ver perfil](https://github.com/kyaragontero/estacion_Metereologica.git) |
 
 ## Estructura del Proyecto
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
