@@ -2,6 +2,8 @@
 # Proyecto: Estación Meteorológica 2026
 
 ## Especialidad / 5to Año
+**Año de desarrollo:****2026**
+**Especialidad:**Programación III/Robótica/ Club de Ciencias — 5to Año (Escuela PRoA)
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en Python y Análisis de datos.
 
 ### Datos: 
